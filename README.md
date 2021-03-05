@@ -1,2 +1,2 @@
 
-### Djuaji Landing Page
+### USSDLY Landing Page
